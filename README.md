@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @senpa1-13
-- 👀 I’m interested in ... Ethical Hacking 
-- 🌱 I’m currently learning ... Basics of Python
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Yuno
+- 👀 I’m interested in ...  AI, ML, IoT and CyberSec
+- 🌱 I’m currently learning ... Ethical Hacking and Linux
+- 💞️ I’m looking to collaborate on ... some cool projects(coming soon)
 - 📫 How to reach me ... yunokun@duck.com 
 
 <!---
